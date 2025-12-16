@@ -1,3 +1,4 @@
+![logo](https://github.com/Ri1tik/Ri1tik/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ritik</h1>
 <h3 align="center">Exploring full-stack development, AI & ML learner.</h3>
 
